@@ -63,3 +63,29 @@ PAUSE 2. Split everything into variables.
 Split each step in the previous exercise into a separate variable. One variable called username and one called length. Use the variable username in the len calculation.
 
 Solution: Length.py
+
+
+Challenge-5:
+************************
+
+Learn the rules of variable naming in Python.
+
+Rules
+Make sure your variable names are descriptive
+Don't have spaces between words
+Don't start with numbers
+Don't use special words like print or input
+Choose simple words that are less likely to become typos
+Check the company style guidelines if you start work at a company
+
+Challenge-6:
+*******************************
+Create a greeting for your program.
+Ask the user for the city that they grew up in and store it in a variable.
+Ask the user for the name of a pet and store it in a variable.
+Combine the name of their city and pet and show them their band name.
+
+Hint-1 --> You can use String Concatenation to combine strings with variables too! e.g. print("My name is " + name)
+Hint-2 --> Think about how you used \n to add a new line to a string. Try putting it in some different places in your code until it does what you expect. Note, when you click into the output area you will be able to click on the end of the line as well as the new line. See the video solution for how it looks on my system.
+
+Solution: Brand-Name-Generator.py
